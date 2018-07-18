@@ -1,6 +1,6 @@
 {
   "name": "twitch-node",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This module helps using the new twitch api with node",
   "main": "./lib/index.js",
   "scripts": {
