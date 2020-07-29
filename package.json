@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/super-ienien/twitch-node#readme",
   "dependencies": {
+    "request": "^2.88.2",
     "simple-oauth2": "^2.2.0"
   }
 }
